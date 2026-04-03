@@ -68,4 +68,4 @@ The frontend dev server proxies `/api` and `/ws` to the backend at `localhost:30
 | Database | PostgreSQL 16 |
 | WebSocket | FastAPI built-in (via Starlette) |
 
-You are free to add any packages you need (pip or npm). Do not swap out the framework or database — we want submissions to be comparable.
+You are free to add any packages you need (pip or npm). The project is structured around this stack.
